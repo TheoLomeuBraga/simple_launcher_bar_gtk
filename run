@@ -1,0 +1,2 @@
+#!/bin/sh
+python3 simple_launcher_bar_gtk.py
